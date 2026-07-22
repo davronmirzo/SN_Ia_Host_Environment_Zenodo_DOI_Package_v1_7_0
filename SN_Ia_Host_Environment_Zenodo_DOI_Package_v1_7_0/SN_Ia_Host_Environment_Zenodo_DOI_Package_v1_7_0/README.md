@@ -1,3 +1,5 @@
+DOI: [![DOI](https://zenodo.org/badge/1309071620.svg)](https://doi.org/10.5281/zenodo.21497776)
+
 # ZTF DR2 SN Ia host-environment correction-validity release v1.7.0
 
 This archive is the clean reproducibility and audit package for the analysis
