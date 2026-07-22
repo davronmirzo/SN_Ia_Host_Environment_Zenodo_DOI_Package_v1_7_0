@@ -1,0 +1,8 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The authors' derived tables, figures, metadata, and documentation in this
+release are distributed under CC BY 4.0, subject to the attribution and
+licensing requirements of the underlying ZTF, Pantheon+, and DES-SN5YR
+products.
+
+Licence text: https://creativecommons.org/licenses/by/4.0/

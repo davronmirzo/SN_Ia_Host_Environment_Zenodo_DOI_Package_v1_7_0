@@ -1,0 +1,35 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "ZTF DR2 SN Ia host-environment correction-validity reproducibility package",
+  "version": "1.7.0",
+  "identifier": "10.5281/zenodo.TBD",
+  "datePublished": "2026-07-22",
+  "license": [
+    "https://opensource.org/licenses/MIT",
+    "https://creativecommons.org/licenses/by/4.0/"
+  ],
+  "programmingLanguage": [
+    "Python",
+    "MATLAB"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Davron",
+      "familyName": "Mirzaqulov"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Sobir",
+      "familyName": "Turaev"
+    },
+    {
+      "@type": "Person",
+      "givenName": "Shuhrat",
+      "familyName": "Ehgamberdiev"
+    }
+  ],
+  "description": "Consolidated reproducibility package containing canonical processed survey products, validated-layer forward-selection simulations, statistical audit code, machine-readable results, final PDF figures, and a segregated provenance archive of superseded v1.5.0 selection-forward artefacts.",
+  "sameAs": "https://doi.org/10.5281/zenodo.TBD"
+}

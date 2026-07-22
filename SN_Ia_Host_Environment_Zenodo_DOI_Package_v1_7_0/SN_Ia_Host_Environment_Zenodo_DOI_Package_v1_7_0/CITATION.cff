@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite the Zenodo record and the accompanying article."
+title: "ZTF DR2 SN Ia host-environment correction-validity reproducibility package"
+version: "1.7.0"
+date-released: "2026-07-22"
+authors:
+  - family-names: "Mirzaqulov"
+    given-names: "Davron"
+  - family-names: "Turaev"
+    given-names: "Sobir"
+  - family-names: "Ehgamberdiev"
+    given-names: "Shuhrat"
+type: software
+license: MIT
+doi: "10.5281/zenodo.TBD"
+keywords:
+  - Type Ia supernovae
+  - ZTF DR2
+  - host galaxies
+  - correction validity
+  - redshift stability
+  - selection effects
+  - local environment
+  - Pantheon+
+  - DES-SN5YR
